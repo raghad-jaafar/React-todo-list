@@ -1,2 +1,2 @@
 # React-todo-list
-a todo list made by React
+a to-do list using React
